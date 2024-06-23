@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/roboflow/supervision/supervision/annotators/core.py
